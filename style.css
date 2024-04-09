@@ -1,0 +1,33 @@
+
+h1 {
+  font-family: "Recursive", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "slnt" -15,
+    "CASL" 1,
+    "CRSV" 0.5,
+    "MONO" 1;
+    color:rgb(49, 126, 49) ;
+   font-size: 6rem;
+   margin: 0;
+   margin-top: 30px;
+  padding-top: 50px;
+}
+body{
+    text-align: center;
+}
+h6{
+    font-size: 3rem;
+    color:rgb(124, 197, 124) ;
+}
+.player{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(86, 81, 81);
+   
+}
+.Dice{
+    size: 40px;
+}
